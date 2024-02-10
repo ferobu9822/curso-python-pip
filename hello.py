@@ -1,0 +1,1 @@
+print('ejecuto python con winpty python o python -i')
